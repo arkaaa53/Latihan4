@@ -19,6 +19,7 @@ body {
     display: flex;
     text-align: center;
     flex-direction: column;
+    margin-top: 100px;
 }
 
 h1 {
@@ -203,4 +204,5 @@ input{
     border: 0;
     border-radius: 7px;
     color: white;
+
 }
